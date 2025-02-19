@@ -1,3 +1,3 @@
 # vault
 
-HashiCorp Vault 1.17.6
+HashiCorp Vault 1.18.4
